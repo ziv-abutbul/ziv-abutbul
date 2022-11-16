@@ -6,7 +6,7 @@ My name's Ziv , I'm 28 , I am a fourth year software engineering student , worki
 * 🌍 I'm actually from Israel
 
 * ✉️ You can contact me at [zivabutbul94@gmail.com](mailto:zivabutbul94@gmail.com)
-* 🚀 I'm currently working on [NextDoor-social network](/ziv-abutbul/nextdoor)
+* 🚀 I'm currently working on [[NextDoor-social network](/ziv-abutbul/nextdoor)](https://github.com/ziv-abutbul/nextdoor)
 * 🧠 I'm learning flutter
 * 🤝 I'm open to collaborating project studies with flutter
 
