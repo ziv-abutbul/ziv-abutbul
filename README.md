@@ -1,14 +1,14 @@
 # Hi! 👋🏻 My name is Ziv Abutbul
 ## Full Stack Developer
 
-My name's Ziv , I'm 28 , I am a fourth year software engineering student , working mostly on python,C++,Java
+My name's Ziv , I'm 29 , I am a software engineering  , working mostly on python,C++,Unity,flutter,C#
 
 * 🌍 I'm actually from Israel
 
 * ✉️ You can contact me at [zivabutbul94@gmail.com](mailto:zivabutbul94@gmail.com)
-* 🚀 I'm currently working on [NextDoor-social network](https://github.com/ziv-abutbul/nextdoor)
-* 🧠 I'm learning flutter
-* 🤝 I'm open to collaborating project studies with flutter
+* 🚀 I'm currently working on moblie Game
+* 🧠 I'm learning unity and flutter
+* 🤝 I'm open to collaborating project studies with flutter and unity
 
 
 ### My Skills
